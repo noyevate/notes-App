@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080040738434",
+    "project_id": "bnas-bbf21",
+    "storage_bucket": "bnas-bbf21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080040738434:android:5e663c4435313cbe12ee9b",
+        "android_client_info": {
+          "package_name": "io.webflow.nobsfrica.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080040738434-r2fh459ol147mdhih3kvj76e3rae3og0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ev8EVujzWCVlsppqCCvKgUcNp893I7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080040738434-r2fh459ol147mdhih3kvj76e3rae3og0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
