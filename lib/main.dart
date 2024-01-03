@@ -25,7 +25,8 @@ void main() {
       //'/home/': (context) => const Homepage(),
       loginRoutes: (context) => const LoginView(),
       registerRoutes: (context) => const RegisterView(),
-      notesRoutes: (context) => const NotesView()
+      notesRoutes: (context) => const NotesView(),
+      verifyEmailRoute: (context) => const VerifyEmailView()
     },
   ));
 }
